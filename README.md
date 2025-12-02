@@ -10,6 +10,8 @@
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2510.16598-red?logo=arxiv" height="14" /> [VisionSelector: End-to-End Learnable Visual Token Compression for Efficient Multimodal LLMs](https://arxiv.org/pdf/2510.16598). [VisionSelector; [GitHub](https://github.com/JulietChoo/VisionSelector)]
 
+- <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2509.23931-red?logo=arxiv" height="14" /> [AutoPrune: Each Complexity Deserves a Pruning Policy](https://arxiv.org/abs/2509.23931). [AutoPrune;NIPS2025; [GitHub](https://github.com/AutoLab-SAI-SJTU/AutoPrune)]
+
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2509.00419-red?logo=arxiv" height="14" /> [LightVLM: Acceleraing Large Multimodal Models with Pyramid Token Merging and KV Cache Compression](https://arxiv.org/pdf/2509.00419). [LightVLM;]
 
 - <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2508.21044-red?logo=arxiv" height="14" /> [MMG-Vid: Maximizing Marginal Gains at Segment-level
